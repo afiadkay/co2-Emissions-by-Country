@@ -3,14 +3,25 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.express as px
 
+# 💫 Page settings
 st.set_page_config(
-    page_title="🌍 Global CO₂ Emissions Dashboard",
-    page_icon="🌍",
+    page_title="Global CO₂ Emissions Dashboard",
+    page_icon="📊",
     layout="wide"
 )
 
+# 🌍 Main app title
 st.title("🌍 Global CO₂ Emissions Dashboard")
 st.markdown("Track and visualize global carbon dioxide emissions by country and source from 2000 to 2021.")
+
+# 🎛️ Sidebar controls
+st.sidebar.header("🎛️ Dashboard Controls")
+st.sidebar.markdown("---")
+st.sidebar.subheader("🔗 Share this app")
+
+app_url = "https://afiadkay.streamlit.app"  
+st.sidebar.code(app_url, language='text')
+
 
 @st.cache_data
 def load_data():
