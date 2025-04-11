@@ -36,46 +36,14 @@ Built with:
 
 ## 🚀 Run Locally
 
+1. Clone the repo:
+
 ```bash
 git clone https://github.com/your-username/co2-dashboard.git
 cd co2-dashboard
 pip install -r requirements.txt
 streamlit run co2_dashboard.py
 ```
-
----
-
-## 🌐 Deploy to Streamlit Cloud
-
-1. Push your project to GitHub
-2. Go to [streamlit.io/cloud](https://streamlit.io/cloud)
-3. Click **"New app"**, connect your repo
-4. Choose `co2_dashboard.py` as the main file
-5. Done!
-
----
-
-## 🔗 Custom Domain Setup (Optional)
-
-To use your own domain (e.g., `co2.yourdomain.com`):
-
-1. Go to [Streamlit Cloud](https://streamlit.io/cloud)
-2. Open your app → ⚙️ → **Settings**
-3. Click **"Edit domain"** → Choose "Use a custom domain"
-4. Add your custom domain (e.g., `co2.yoursite.com`)
-5. Update your DNS records:
-    - Type: `CNAME`
-    - Name: `co2`
-    - Value: `streamlit-app.streamlit.app.`
-6. Save changes, wait for propagation
-
-Full details: [Streamlit Custom Domains](https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app/connect-custom-domain)
-
----
-
-## 📜 License
-
-MIT License — use it, improve it, share it ✨
 
 ---
 
