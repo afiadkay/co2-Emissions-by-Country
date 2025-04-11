@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-username.streamlit.app" target="_blank">
+  <a href="https://afiadkay.streamlit.app" target="_blank">
     🚀 View Live App
   </a>
 </p>
@@ -30,7 +30,6 @@ Built with:
 - [Pandas](https://pandas.pydata.org/)
 - [GeoPandas](https://geopandas.org/)
 - [Plotly](https://plotly.com/)
-- [Bokeh](https://docs.bokeh.org/)
 
 ---
 
