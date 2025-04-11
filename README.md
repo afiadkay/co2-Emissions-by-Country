@@ -38,8 +38,8 @@ Built with:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/co2-dashboard.git
-cd co2-dashboard
+git clone https://github.com/afiadkay/co2-Emissions-by-Country.git
+cd co2-Emissions-by-Country
 pip install -r requirements.txt
 streamlit run co2_dashboard.py
 ```
