@@ -57,7 +57,7 @@ streamlit run co2_dashboard.py
 ## 📤 Share this App
 
 If you like the app, give it a ⭐ on GitHub and share the link!
-🔗 https://afiadkay.streamlit.app/
+<a href="https://afiadkay.streamlit.app" >🔗 Click here</a> 
 
 ---
 
