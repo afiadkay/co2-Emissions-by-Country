@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://afiadkay.streamlit.app" target="_blank">
-    🔗 View the Live App
+    View the Live App
   </a>
 </p>
 
@@ -57,7 +57,7 @@ streamlit run co2_dashboard.py
 ## 📤 Share this App
 
 If you like the app, give it a ⭐ on GitHub and share the link!
-<a href="https://afiadkay.streamlit.app" >🔗 Click here</a> 
+<a href="https://afiadkay.streamlit.app" >🔗</a> 
 
 ---
 
