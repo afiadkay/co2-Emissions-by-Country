@@ -1,6 +1,6 @@
-<h1 align="center">🌍 Global CO₂ Emissions, 2021</h1>
+<h1 align="left">🌍 Global CO₂ Emissions, 2021</h1>
 
-<p align="center">
+<p align="left">
   Track and visualize global carbon dioxide emissions by country and source from 2000–2021.
 </p>
 
