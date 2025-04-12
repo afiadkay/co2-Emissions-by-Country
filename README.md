@@ -28,7 +28,7 @@ This interactive dashboard lets you explore global CO₂ emissions using data fr
 Built with:
 - [Streamlit](https://streamlit.io/)
 - [Pandas](https://pandas.pydata.org/)
-- [GeoPandas](https://geopandas.org/)
+- [matplotlib](https://matplotlib.org/)
 - [Plotly](https://plotly.com/)
 
 ---
