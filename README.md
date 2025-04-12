@@ -4,7 +4,7 @@
   Track and visualize global carbon dioxide emissions by country and source from 2000–2021.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://afiadkay.streamlit.app" target="_blank">
     View the Live App
   </a>
