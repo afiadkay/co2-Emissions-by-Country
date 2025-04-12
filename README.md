@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/CO2_emissions_world_map.png" width="500" alt="CO₂ Emissions Dashboard">
+  <img src="assets/screenshot.png" width="500" alt="Annual CO₂ Emissions, 2021">
 </p>
 
-<h1 align="center">🌍 Global CO₂ Emissions Dashboard</h1>
+<h1 align="center">🌍 Global CO₂ Emissions, 2021</h1>
 
 <p align="center">
   Visualize and analyze global carbon dioxide emissions by country and source (2000–2021).
