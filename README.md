@@ -1,31 +1,39 @@
-<p align="center">
-  <img src="assets/screenshot.png" width="500" alt="Annual CO₂ Emissions, 2021">
-</p>
-
 <h1 align="center">🌍 Global CO₂ Emissions, 2021</h1>
 
 <p align="center">
-  Visualize and analyze global carbon dioxide emissions by country and source (2000–2021).
+  Track and visualize global carbon dioxide emissions by country and source from 2000–2021.
 </p>
 
 <p align="center">
   <a href="https://afiadkay.streamlit.app" target="_blank">
-    🚀 View Live App
+    🔗 View the Live App
   </a>
 </p>
 
 ---
 
-## 📊 About the Project
+## 📊 About
 
-This interactive dashboard lets you explore global CO₂ emissions using data from [Our World in Data](https://github.com/owid/co2-data). It includes:
+This interactive Streamlit dashboard helps users explore CO₂ emissions globally using data from [Our World in Data](https://github.com/owid/co2-data). Features:
 
-- 🌐 An interactive world map of CO₂ emissions by country
+- 🌐 Choropleth map of CO₂ emissions per country
 - 📈 Country-specific CO₂ trends over time
-- 📊 Stacked bar charts showing top 5 emitters by source
-- 🔍 Filters by year and country
+- 📊 Top 5 emitters stacked bar chart by source
+- 🌗 Theme toggle (Light/Dark mode)
 
-Built with:
+---
+
+## 🌍 App Preview
+
+<p align="center">
+  <img src="assets/screenshot.png" width="800" alt="CO₂ Emissions App Dashboard Screenshot">
+</p>
+
+---
+
+## 📦 Requirements
+
+See requirements.txt — includes:
 - [Streamlit](https://streamlit.io/)
 - [Pandas](https://pandas.pydata.org/)
 - [matplotlib](https://matplotlib.org/)
@@ -33,9 +41,9 @@ Built with:
 
 ---
 
-## 🚀 Run Locally
+## 💻 Run Locally
 
-1. Clone the repo:
+**Clone the repo:**
 
 ```bash
 git clone https://github.com/afiadkay/co2-Emissions-by-Country.git
@@ -43,6 +51,13 @@ cd co2-Emissions-by-Country
 pip install -r requirements.txt
 streamlit run co2_dashboard.py
 ```
+
+---
+
+## 📤 Share this App
+
+If you like the app, give it a ⭐ on GitHub and share the link!
+🔗 https://afiadkay.streamlit.app/
 
 ---
 
